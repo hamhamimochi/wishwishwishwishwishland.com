@@ -168,10 +168,10 @@ body {
 }
 
 .article-title {
-  font-family: var(--base-font);
-  font-size: 25px;
-  font-weight: 700;
-  color: #000000;
+  font-family: "Linux Libertine", Georgia, Times, "Noto Serif TC", "Noto Serif KR", serif;
+  font-size: 26px;
+  font-weight: 500;
+  color: #262626;
   line-height: 1.25;
 }
 
@@ -248,14 +248,14 @@ body {
 .infobox-title-kr {
   font-size: 17px;
   font-weight: 700;
-  color: #000;
+  color: #262626;
   letter-spacing: 0.5px;
 }
 
 .infobox-title-en {
   font-size: 12px;
   font-weight: 700;
-  color: #000;
+  color: #262626;
   letter-spacing: 0.8px;
   margin-top: 1px;
 }
@@ -307,7 +307,7 @@ body {
 .infobox-table th {
   width: 30%;
   font-weight: 700;
-  color: #000;
+  color: #262626;
 }
 
 .infobox-table td {
@@ -331,13 +331,13 @@ body {
 }
 
 h2.section-heading {
-  font-family: var(--base-font);
-  font-size: 19px;
-  font-weight: 700;
+  font-family: "Linux Libertine", Georgia, Times, "Noto Serif TC", "Noto Serif KR", serif;
+  font-size: 20px;
+  font-weight: 500;
   border-bottom: 1px solid var(--border-light);
   padding-bottom: 4px;
   margin-bottom: 10px;
-  color: #000;
+  color: #262626;
 }
 
 h3.subsection-heading {
@@ -346,7 +346,7 @@ h3.subsection-heading {
   font-weight: 700;
   margin-top: 16px;
   margin-bottom: 6px;
-  color: #000;
+  color: #262626;
 }
 
 p {
@@ -389,7 +389,7 @@ sup.ref a:hover {
 
 .references-list li.highlight {
   background-color: #eaf3ff;
-  color: #000;
+  color: #262626;
 }
 
 .ref-back {
@@ -436,7 +436,7 @@ sup.ref a:hover {
   padding-bottom: 10px;
   border-bottom: 1px solid var(--border-light);
   margin-bottom: 12px;
-  color: #000;
+  color: #262626;
 }
 
 .drawer-nav {
